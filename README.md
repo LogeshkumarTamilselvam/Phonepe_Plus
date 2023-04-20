@@ -18,4 +18,8 @@ Amplify conversions. Reduce customer drop-offs.
 With PhonePe Express Checkout, build a lightning fast shopping experience for your customers, enabling them smooth checkout without the pain of filling out long address and login forms![Phonepeimage](https://user-images.githubusercontent.com/125792268/233307182-e6c3d841-4a26-4d4d-8af1-4e269bfafeae.jpeg)
 
 
+softwere we used
 
+python
+MySql
+streamlit
