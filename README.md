@@ -1,5 +1,8 @@
 # Phonepe_Plus
 
+linkedin post - https://www.linkedin.com/posts/logeshkumar-tamilselvam-7258aa269_data-data-india-activity-7055012271172833280-qaRN?utm_source=share&utm_medium=member_desktop
+
+
 
 The Indian digital payments story has truly captured the world's imagination. From the largest towns to the remotest villages, there is a payments revolution being driven by the penetration of mobile phones and data.
 
