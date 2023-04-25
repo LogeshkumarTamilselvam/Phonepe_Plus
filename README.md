@@ -25,4 +25,4 @@ softwere we used
 
 python
 MySql
-streamlit
+streamlit.
