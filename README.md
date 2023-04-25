@@ -13,7 +13,7 @@ This year, as we crossed 2000 Cr. transactions and 30 Crore registered users, we
 
 PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights and in-depth analysis based on our data put together by the PhonePe team.
 
-![WhatsApp Image 2023-04-10 at 9 12 31 AM](https://user-images.githubusercontent.com/125792268/233306850-892f384e-7c1a-4ba3-9bf8-fb1d1d34010e.jpeg)
+![WhatsApp Image 2023-04-10 at 9 12 31 AM](https://user-images.githubusercontent.com/125792268/233306850-892f384e-7c1a-4ba3-9bf8-fb1d1d34010e.jpeg).
 PhonePe Express
 A lightning quick checkout experience built to grow your business.
 Amplify conversions. Reduce customer drop-offs.
