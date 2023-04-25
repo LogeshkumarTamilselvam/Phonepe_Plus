@@ -16,7 +16,7 @@ PhonePe Pulse is your window to the world of how India transacts with interestin
 ![WhatsApp Image 2023-04-10 at 9 12 31 AM](https://user-images.githubusercontent.com/125792268/233306850-892f384e-7c1a-4ba3-9bf8-fb1d1d34010e.jpeg).
 PhonePe Express
 A lightning quick checkout experience built to grow your business.
-Amplify conversions. Reduce customer drop-offs.
+Amplify conversions. Reduce customer drop-offs
 
 With PhonePe Express Checkout, build a lightning fast shopping experience for your customers, enabling them smooth checkout without the pain of filling out long address and login forms![Phonepeimage](https://user-images.githubusercontent.com/125792268/233307182-e6c3d841-4a26-4d4d-8af1-4e269bfafeae.jpeg)
 
